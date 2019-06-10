@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">scheduleAdherence</string>
+
+    <!-- Strings of the Login Activity -->
+    <string name="prompt">Login</string>
+    <string name="login">Login</string>
+    <string name="usernameEnter">Enter your username</string>
+    <string name="passwordEnter">Enter your password</string>
 </resources>
